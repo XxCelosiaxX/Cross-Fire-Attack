@@ -1,0 +1,32 @@
+['v', '0.69603791110001123', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '0.77024889075257241', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '0.85752964106266993', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '1.0523139976631914', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '1.1022542938092659', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '2.2095483983505866', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '2.4691223206521919', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '3.5164872446098161', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '3.9435123900240234', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '3.9708375413385602', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '4.0997725017941669', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '4.2817393560457147', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '4.2938822699849464', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+Degradation per Second
+Packets Per Second Alive: [43, 41, 15, 40, 19]
+Packets Per Second Dropped: [0, 0, 0, 0, 0]
+
+Total Degradation
+0 / 158
+
+User Degradation per Second
+User 0 Rate: ['0/7', '0/13', '0/17', '0/23', '0/28']
+User 1 Rate: ['0/6', '0/11', '0/11', '0/17', '0/20']
+User 2 Rate: ['0/7', '0/11', '0/11', '0/12', '0/16']
+User 3 Rate: ['0/0', '0/5', '0/10', '0/14', '0/14']
+
+Total User Degradation
+User 0 Packets: 0 / 28
+User 1 Packets: 0 / 20
+User 2 Packets: 0 / 16
+User 3 Packets: 0 / 14
+
