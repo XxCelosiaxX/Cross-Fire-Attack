@@ -1,0 +1,27 @@
+['v', '1.0536969751582708', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '1.1894491993242475', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '1.6407428795703036', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '1.7004480644066993', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '3.1206452636982212', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '3.4242933655867187', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '3.7188314073171576', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+['v', '4.2772444878599813', 'eval', '{set', 'sim_annotation', '{S', '32', 'INV', '_o772:0}}']
+Degradation per Second
+Packets Per Second Alive: [2537, 2810, 2810, 2816, 2820]
+Packets Per Second Dropped: [763, 1000, 1023, 1024, 1024]
+
+Total Degradation
+4834 / 13793
+
+User Degradation per Second
+User 0 Rate: ['1/1', '1/1', '1/1', '2/5', '2/9']
+User 1 Rate: ['1/1', '1/1', '1/1', '2/2', '2/2']
+User 2 Rate: ['2/4', '3/5', '4/6', '4/6', '4/6']
+User 3 Rate: ['0/0', '1/1', '1/1', '1/1', '3/5']
+
+Total User Degradation
+User 0 Packets: 2 / 9
+User 1 Packets: 2 / 2
+User 2 Packets: 4 / 6
+User 3 Packets: 3 / 5
+

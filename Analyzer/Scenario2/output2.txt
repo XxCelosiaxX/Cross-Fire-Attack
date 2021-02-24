@@ -1,0 +1,19 @@
+Degradation per Second
+Packets Per Second Alive: [4843, 5366, 5373, 5383, 5366]
+Packets Per Second Dropped: [2973, 3581, 3588, 3590, 3583]
+
+Total Degradation
+17315 / 26331
+
+User Degradation per Second
+User 0 Rate: ['1/1', '1/1', '1/1', '2/4', '2/4']
+User 1 Rate: ['1/1', '1/1', '1/1', '2/4', '2/4']
+User 2 Rate: ['1/1', '1/1', '1/1', '2/2', '2/2']
+User 3 Rate: ['0/0', '1/1', '1/1', '1/1', '2/2']
+
+Total User Degradation
+User 0 Packets: 2 / 4
+User 1 Packets: 2 / 4
+User 2 Packets: 2 / 2
+User 3 Packets: 2 / 2
+
